@@ -1,5 +1,5 @@
 ```
-> no utils is just  nothing but a n attempt to recreate core system utility in c++
+> noutils is just  nothing but just a silly attempt to recreate core system utility in c++
 ------------------------
 
 > how to use it? it's very simple just download the binary and run them, these are all
