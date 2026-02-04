@@ -1,4 +1,4 @@
-[!img](https://github.com/zynomon/noutils/raw/main/noutils.svg)
+<img> src='https://github.com/zynomon/noutils/raw/main/noutils.svg'</img>
 ```
 > noutils is just  nothing but just a silly attempt to recreate core system utility in c++
 ------------------------
