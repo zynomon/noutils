@@ -23,3 +23,4 @@ its like saying your computer to speak something,
 ```
 
 ![noutils](https://github.com/zynomon/noutils/raw/main/noutils.svg)
+< logo made by zynomon >
